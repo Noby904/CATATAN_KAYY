@@ -1,4 +1,6 @@
-sudo npm install -g n
+sudo npm install -g npm(versi npm)
+
+sudo npm install -g npm@9.8.1
 
 sudo n lts
 
