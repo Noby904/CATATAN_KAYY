@@ -1,0 +1,4 @@
+sudo apt install nodejs -y
+node --version
+sudo apt install npm -y
+npm --version
