@@ -1,0 +1,7 @@
+sudo npm install -g n
+
+sudo n lts
+
+buka terminal baru dan ketikkan 
+
+node --version && npm --version
